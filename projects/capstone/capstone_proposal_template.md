@@ -1,7 +1,7 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Proposal
-Joe Udacity  
-December 31st, 2050
+Zhaochen Xie
+December 1st, 2017
 
 ## Proposal
 _(approx. 2-3 pages)_
